@@ -1,9 +1,26 @@
-FPBILLIONS LICENSE SERVER
+############################################################
+# FPBILLIONS LICENSE SERVER
+############################################################
 
 VERSION=1.0
+SERVER_ID=FPB-LICENSE-001
+GLOBAL_STATUS=ACTIVE
+CHECK_INTERVAL_MINUTES=10
 
-ACCOUNT=123456789
+############################################################
+# LICENZA 1
+############################################################
+
+LICENSE_ID=FPB-000001
+CLIENT=Antonio Montemarano
+ACCOUNT=12345
 STATUS=ACTIVE
 
-ACCOUNT=12345678
+############################################################
+# LICENZA 2
+############################################################
+
+LICENSE_ID=FPB-000002
+CLIENT=Cliente Demo
+ACCOUNT=12345
 STATUS=ACTIVE
