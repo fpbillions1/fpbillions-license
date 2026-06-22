@@ -26,3 +26,23 @@ CLIENT=Antonio Montemarano
 PRODUCT=ALL
 ACCOUNT=5007303
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 3
+############################################################
+
+LICENSE_ID=FPB-000003
+CLIENT=Massimo Di Caterino
+PRODUCT=ALL
+ACCOUNT=82365996
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 4
+############################################################
+
+LICENSE_ID=FPB-000004
+CLIENT=Massimo Di Caterino
+PRODUCT=ALL
+ACCOUNT=5007402
+STATUS=ACTIVE
