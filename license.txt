@@ -47,3 +47,23 @@ CLIENT=Massimo Di Caterino
 PRODUCT=ALL
 ACCOUNT=5007402
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 5
+############################################################
+
+LICENSE_ID=FPB-000005
+CLIENT=Enzo Sglavo
+PRODUCT=ALL
+ACCOUNT=82364690
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 6
+############################################################
+
+LICENSE_ID=FPB-000006
+CLIENT=Enzo Sglavo
+PRODUCT=ALL
+ACCOUNT=5007194
+STATUS=ACTIVE
