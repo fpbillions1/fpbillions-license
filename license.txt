@@ -87,3 +87,23 @@ CLIENT=Massimo Di Caterino
 PRODUCT=ALL
 ACCOUNT=5007863
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 9
+############################################################
+
+LICENSE_ID=FPB-000009
+CLIENT=Vincenzo Di Maria
+PRODUCT=ALL
+ACCOUNT=82368781
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 10
+############################################################
+
+LICENSE_ID=FPB-000010
+CLIENT=Vincenzo Di Maria
+PRODUCT=ALL
+ACCOUNT=5007854
+STATUS=ACTIVE
