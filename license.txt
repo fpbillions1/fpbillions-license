@@ -107,3 +107,43 @@ CLIENT=Vincenzo Di Maria
 PRODUCT=ALL
 ACCOUNT=5007854
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 11
+############################################################
+
+LICENSE_ID=FPB-000011
+CLIENT=Giuseppe Di Gabriele
+PRODUCT=ALL
+ACCOUNT=82368949
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 12
+############################################################
+
+LICENSE_ID=FPB-000012
+CLIENT=Giuseppe Di Gabriele
+PRODUCT=ALL
+ACCOUNT=5007886
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 13
+############################################################
+
+LICENSE_ID=FPB-000013
+CLIENT=Giancarlo Zuliani
+PRODUCT=ALL
+ACCOUNT=8236545
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 14
+############################################################
+
+LICENSE_ID=FPB-000014
+CLIENT=Giancarlo Zuliani
+PRODUCT=ALL
+ACCOUNT=5007859
+STATUS=ACTIVE
