@@ -147,3 +147,23 @@ CLIENT=Giancarlo Zuliani
 PRODUCT=ALL
 ACCOUNT=5007859
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 15
+############################################################
+
+LICENSE_ID=FPB-000015
+CLIENT=Maurizio Pierluigi
+PRODUCT=ALL
+ACCOUNT=82369012
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 16
+############################################################
+
+LICENSE_ID=FPB-000016
+CLIENT=Maurizio Pierluigi
+PRODUCT=ALL
+ACCOUNT=5007921
+STATUS=ACTIVE
