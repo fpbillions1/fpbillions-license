@@ -207,3 +207,23 @@ CLIENT=Alessandra Caluppi
 PRODUCT=ALL
 ACCOUNT=5007923
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 21
+############################################################
+
+LICENSE_ID=FPB-000021
+CLIENT=Roberto Rampianese
+PRODUCT=ALL
+ACCOUNT=82368768
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 22
+############################################################
+
+LICENSE_ID=FPB-000022
+CLIENT=Roberto Rampianese
+PRODUCT=ALL
+ACCOUNT=5007910
+STATUS=ACTIVE
