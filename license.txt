@@ -187,3 +187,23 @@ CLIENT=Marco Molena
 PRODUCT=ALL
 ACCOUNT=5007887
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 19
+############################################################
+
+LICENSE_ID=FPB-000019
+CLIENT=Alessandra Caluppi
+PRODUCT=ALL
+ACCOUNT=82369084
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 20
+############################################################
+
+LICENSE_ID=FPB-000020
+CLIENT=Alessandra Caluppi
+PRODUCT=ALL
+ACCOUNT=5007923
+STATUS=ACTIVE
