@@ -167,3 +167,23 @@ CLIENT=Maurizio Pierluigi
 PRODUCT=ALL
 ACCOUNT=5007921
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 17
+############################################################
+
+LICENSE_ID=FPB-000017
+CLIENT=Marco Molena
+PRODUCT=ALL
+ACCOUNT=82368848
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 18
+############################################################
+
+LICENSE_ID=FPB-000018
+CLIENT=Marco Molena
+PRODUCT=ALL
+ACCOUNT=5007887
+STATUS=ACTIVE
