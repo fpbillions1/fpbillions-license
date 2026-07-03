@@ -287,3 +287,23 @@ CLIENT=Rocco Mazzardi
 PRODUCT=ALL
 ACCOUNT=5007891
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 29
+############################################################
+
+LICENSE_ID=FPB-000029
+CLIENT=Emanuele Cazzato
+PRODUCT=ALL
+ACCOUNT=82369007
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 30
+############################################################
+
+LICENSE_ID=FPB-000030
+CLIENT=Emanuele Cazzato 
+PRODUCT=ALL
+ACCOUNT=5007942
+STATUS=ACTIVE
