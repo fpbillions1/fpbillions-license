@@ -293,9 +293,9 @@ STATUS=ACTIVE
 ############################################################
 
 LICENSE_ID=FPB-000029
-CLIENT=Emanuele Cazzato
+CLIENT=Maurizio Biasini
 PRODUCT=ALL
-ACCOUNT=82369007
+ACCOUNT=82369241
 STATUS=ACTIVE
 
 ############################################################
@@ -303,7 +303,7 @@ STATUS=ACTIVE
 ############################################################
 
 LICENSE_ID=FPB-000030
-CLIENT=Emanuele Cazzato 
+CLIENT=Maurizio Biasini
 PRODUCT=ALL
-ACCOUNT=5007942
+ACCOUNT=5007953
 STATUS=ACTIVE
