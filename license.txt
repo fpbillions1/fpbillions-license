@@ -227,3 +227,43 @@ CLIENT=Roberto Rampianese
 PRODUCT=ALL
 ACCOUNT=5007910
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 23
+############################################################
+
+LICENSE_ID=FPB-000023
+CLIENT=Emanuele Cazzato
+PRODUCT=ALL
+ACCOUNT=82369007
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 24
+############################################################
+
+LICENSE_ID=FPB-000024
+CLIENT=Emanuele Cazzato
+PRODUCT=ALL
+ACCOUNT=5007942
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 25
+############################################################
+
+LICENSE_ID=FPB-000025
+CLIENT=Rocco Mazzardi
+PRODUCT=ALL
+ACCOUNT=82368733
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 26
+############################################################
+
+LICENSE_ID=FPB-000026
+CLIENT=Rocco Mazzardi
+PRODUCT=ALL
+ACCOUNT=5007890
+STATUS=ACTIVE
