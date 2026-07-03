@@ -267,3 +267,23 @@ CLIENT=Rocco Mazzardi
 PRODUCT=ALL
 ACCOUNT=5007890
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 27
+############################################################
+
+LICENSE_ID=FPB-000027
+CLIENT=Rocco Mazzardi
+PRODUCT=ALL
+ACCOUNT=82368735
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 28
+############################################################
+
+LICENSE_ID=FPB-000028
+CLIENT=Rocco Mazzardi
+PRODUCT=ALL
+ACCOUNT=5007891
+STATUS=ACTIVE
