@@ -347,3 +347,23 @@ CLIENT=Fabio De Lucia
 PRODUCT=ALL
 ACCOUNT=5007943
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 35
+############################################################
+
+LICENSE_ID=FPB-000035
+CLIENT=Enrico Simpatia
+PRODUCT=ALL
+ACCOUNT=850009337
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 36
+############################################################
+
+LICENSE_ID=FPB-000036
+CLIENT=Enrico Simpatia
+PRODUCT=ALL
+ACCOUNT=5007853
+STATUS=ACTIVE
