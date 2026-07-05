@@ -327,3 +327,23 @@ CLIENT=Roberta Palmieri
 PRODUCT=ALL
 ACCOUNT=5007862
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 33
+############################################################
+
+LICENSE_ID=FPB-000033
+CLIENT=Fabio De Lucia
+PRODUCT=ALL
+ACCOUNT=82369401
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 34
+############################################################
+
+LICENSE_ID=FPB-000034
+CLIENT=Fabio De Lucia
+PRODUCT=ALL
+ACCOUNT=5007943
+STATUS=ACTIVE
