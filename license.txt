@@ -367,3 +367,23 @@ CLIENT=Enrico Simpatia
 PRODUCT=ALL
 ACCOUNT=5007853
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 37
+############################################################
+
+LICENSE_ID=FPB-000037
+CLIENT=D'Addio Alessio
+PRODUCT=ALL
+ACCOUNT=82369400
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 38
+############################################################
+
+LICENSE_ID=FPB-000038
+CLIENT=D'Addio Alessio
+PRODUCT=ALL
+ACCOUNT=5007979
+STATUS=ACTIVE
