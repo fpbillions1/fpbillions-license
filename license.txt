@@ -307,3 +307,23 @@ CLIENT=Maurizio Biasini
 PRODUCT=ALL
 ACCOUNT=5007953
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 31
+############################################################
+
+LICENSE_ID=FPB-000031
+CLIENT=Roberta Palmieri
+PRODUCT=ALL
+ACCOUNT=82368940
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 32
+############################################################
+
+LICENSE_ID=FPB-000032
+CLIENT=Roberta Palmieri
+PRODUCT=ALL
+ACCOUNT=5007862
+STATUS=ACTIVE
