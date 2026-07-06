@@ -387,3 +387,23 @@ CLIENT=D'Addio Alessio
 PRODUCT=ALL
 ACCOUNT=5007979
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 39
+############################################################
+
+LICENSE_ID=FPB-000039
+CLIENT=Fabrizio Alberto Furiosi
+PRODUCT=ALL
+ACCOUNT=82369453
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 40
+############################################################
+
+LICENSE_ID=FPB-000040
+CLIENT=Fzbrizio Alberto Furiosi
+PRODUCT=ALL
+ACCOUNT=5007978
+STATUS=ACTIVE
