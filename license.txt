@@ -427,3 +427,23 @@ CLIENT=Mauro Rossetti
 PRODUCT=ALL
 ACCOUNT=5007879
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 43
+############################################################
+
+LICENSE_ID=FPB-000043
+CLIENT=Simonetta Giuliani
+PRODUCT=ALL
+ACCOUNT=82369622
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 44
+############################################################
+
+LICENSE_ID=FPB-000044
+CLIENT=Siminetta Giuliani
+PRODUCT=ALL
+ACCOUNT=5008008
+STATUS=ACTIVE
