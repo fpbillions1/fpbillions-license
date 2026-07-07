@@ -447,3 +447,23 @@ CLIENT=Siminetta Giuliani
 PRODUCT=ALL
 ACCOUNT=5008008
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 45
+############################################################
+
+LICENSE_ID=FPB-000045
+CLIENT=Carmelina Comodo
+PRODUCT=ALL
+ACCOUNT=82369627
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 46
+############################################################
+
+LICENSE_ID=FPB-000046
+CLIENT=Carmelina Comodo
+PRODUCT=ALL
+ACCOUNT=5008010
+STATUS=ACTIVE
