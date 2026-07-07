@@ -407,3 +407,23 @@ CLIENT=Fzbrizio Alberto Furiosi
 PRODUCT=ALL
 ACCOUNT=5007978
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 41
+############################################################
+
+LICENSE_ID=FPB-000041
+CLIENT=Mauro Rossetti
+PRODUCT=ALL
+ACCOUNT=82368767
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 42
+############################################################
+
+LICENSE_ID=FPB-000042
+CLIENT=Mauro Rossetti
+PRODUCT=ALL
+ACCOUNT=5007879
+STATUS=ACTIVE
