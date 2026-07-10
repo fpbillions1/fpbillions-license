@@ -487,3 +487,23 @@ CLIENT=Giovanni Guglielmo Giamei
 PRODUCT=ALL
 ACCOUNT=5007996
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 49
+############################################################
+
+LICENSE_ID=FPB-000049
+CLIENT=Fabio Mele - Marco Volpe 
+PRODUCT=ALL
+ACCOUNT=82368731
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 50
+############################################################
+
+LICENSE_ID=FPB-000050
+CLIENT=Fabio Mele - Marco Volpe
+PRODUCT=ALL
+ACCOUNT=5007867
+STATUS=ACTIVE
