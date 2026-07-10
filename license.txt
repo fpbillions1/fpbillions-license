@@ -507,3 +507,23 @@ CLIENT=Fabio Mele - Marco Volpe
 PRODUCT=ALL
 ACCOUNT=5007867
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 51
+############################################################
+
+LICENSE_ID=FPB-000051
+CLIENT=Giuseppe Battistoni 
+PRODUCT=ALL
+ACCOUNT=82369294
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 52
+############################################################
+
+LICENSE_ID=FPB-000052
+CLIENT=Giuseppe Battistoni
+PRODUCT=ALL
+ACCOUNT=5008030
+STATUS=ACTIVE
