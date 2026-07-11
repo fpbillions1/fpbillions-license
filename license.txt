@@ -547,3 +547,23 @@ CLIENT=Michele Saggiomo
 PRODUCT=ALL
 ACCOUNT=5007868
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 55
+############################################################
+
+LICENSE_ID=FPB-000055
+CLIENT=Luigi Longobardo 
+PRODUCT=ALL
+ACCOUNT=82368961
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 56
+############################################################
+
+LICENSE_ID=FPB-000056
+CLIENT=Luigi Lingobardo
+PRODUCT=ALL
+ACCOUNT=5007928
+STATUS=ACTIVE
