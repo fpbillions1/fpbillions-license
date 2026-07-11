@@ -527,3 +527,23 @@ CLIENT=Giuseppe Battistoni
 PRODUCT=ALL
 ACCOUNT=5008030
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 53
+############################################################
+
+LICENSE_ID=FPB-000053
+CLIENT=Michele Saggiomo 
+PRODUCT=ALL
+ACCOUNT=82368739
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 54
+############################################################
+
+LICENSE_ID=FPB-000054
+CLIENT=Michele Saggiomo
+PRODUCT=ALL
+ACCOUNT=5007868
+STATUS=ACTIVE
