@@ -567,3 +567,23 @@ CLIENT=Luigi Lingobardo
 PRODUCT=ALL
 ACCOUNT=5007928
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 57
+############################################################
+
+LICENSE_ID=FPB-000057
+CLIENT=Giorgio Santo 
+PRODUCT=ALL
+ACCOUNT=82370079
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 58
+############################################################
+
+LICENSE_ID=FPB-000058
+CLIENT=Giorgio Santo
+PRODUCT=ALL
+ACCOUNT=5008063
+STATUS=ACTIVE
