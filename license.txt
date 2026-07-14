@@ -587,3 +587,23 @@ CLIENT=Giorgio Santo
 PRODUCT=ALL
 ACCOUNT=5008063
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 59
+############################################################
+
+LICENSE_ID=FPB-000059
+CLIENT=Luisa Trani 
+PRODUCT=ALL
+ACCOUNT=82369310
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 60
+############################################################
+
+LICENSE_ID=FPB-000060
+CLIENT=Luisa Trani
+PRODUCT=ALL
+ACCOUNT=5007975
+STATUS=ACTIVE
