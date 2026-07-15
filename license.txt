@@ -607,3 +607,43 @@ CLIENT=Luisa Trani
 PRODUCT=ALL
 ACCOUNT=5007975
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 61
+############################################################
+
+LICENSE_ID=FPB-000061
+CLIENT=Oronzo De Quarto 
+PRODUCT=ALL
+ACCOUNT=82369684
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 62
+############################################################
+
+LICENSE_ID=FPB-000062
+CLIENT=Oronzo De Quarto
+PRODUCT=ALL
+ACCOUNT=5008046
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 63
+############################################################
+
+LICENSE_ID=FPB-000063
+CLIENT=Rocco Morra 
+PRODUCT=ALL
+ACCOUNT=82370277
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 64
+############################################################
+
+LICENSE_ID=FPB-000064
+CLIENT=Rocco Morra
+PRODUCT=ALL
+ACCOUNT=5008090
+STATUS=ACTIVE
