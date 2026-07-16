@@ -647,3 +647,23 @@ CLIENT=Rocco Morra
 PRODUCT=ALL
 ACCOUNT=5008090
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 65
+############################################################
+
+LICENSE_ID=FPB-000065
+CLIENT=Gustavo Zito 
+PRODUCT=ALL
+ACCOUNT=82368488
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 66
+############################################################
+
+LICENSE_ID=FPB-000066
+CLIENT=Gustavo Zito
+PRODUCT=ALL
+ACCOUNT=5007843
+STATUS=ACTIVE
