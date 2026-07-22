@@ -727,3 +727,23 @@ CLIENT=Maria Piga
 PRODUCT=ALL
 ACCOUNT=5007917
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 73
+############################################################
+
+LICENSE_ID=FPB-000073
+CLIENT=Simone Buono
+PRODUCT=ALL
+ACCOUNT=850009356
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 74
+############################################################
+
+LICENSE_ID=FPB-000074
+CLIENT=Simone Buono
+PRODUCT=ALL
+ACCOUNT=5007917
+STATUS=ACTIVE
