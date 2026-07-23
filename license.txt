@@ -747,3 +747,23 @@ CLIENT=Simone Buono
 PRODUCT=ALL
 ACCOUNT=5007917
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 75
+############################################################
+
+LICENSE_ID=FPB-000075
+CLIENT=Andrea Finotti
+PRODUCT=ALL
+ACCOUNT=82370992
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 76
+############################################################
+
+LICENSE_ID=FPB-000076
+CLIENT=Andrea Finotti
+PRODUCT=ALL
+ACCOUNT=5008175
+STATUS=ACTIVE
