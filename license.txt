@@ -767,3 +767,22 @@ CLIENT=Andrea Finotti
 PRODUCT=ALL
 ACCOUNT=5008175
 STATUS=ACTIVE
+
+############################################################
+# LICENZA 77
+############################################################
+
+LICENSE_ID=FPB-000077
+CLIENT=Giovanni Varriale
+PRODUCT=ALL
+ACCOUNT=82370830
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 78
+############################################################
+
+LICENSE_ID=FPB-000078
+CLIENT=Giovanni Varriale
+PRODUCT=ALL
+ACCOUNT=5008195
