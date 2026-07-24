@@ -805,3 +805,23 @@ LICENSE_ID=FPB-000080
 CLIENT=Salvo Testa
 PRODUCT=ALL
 ACCOUNT=5008074
+
+############################################################
+# LICENZA 81
+############################################################
+
+LICENSE_ID=FPB-000081
+CLIENT=Giovanni Varriale 
+PRODUCT=ALL
+ACCOUNT=82370830
+STATUS=ACTIVE
+
+############################################################
+# LICENZA 82
+############################################################
+
+LICENSE_ID=FPB-000082
+CLIENT=Giovanni Varriale
+PRODUCT=ALL
+ACCOUNT=5008195
+STATUS=ACTIVE
